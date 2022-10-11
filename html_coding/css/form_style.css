@@ -1,0 +1,100 @@
+.form_questions{
+    position: absolute;
+    z-index: 2;
+}
+
+input{
+    box-sizing: border-box;
+    position: absolute;
+    z-index: 3;
+    padding: 23px 29px 29px;
+    width: 818px;
+    height: 83px;
+    left: 311px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+
+    display: flex;
+    align-items: flex-end;
+    color: black;
+
+    background: #FFFFFF;
+    border: 1px solid #5C5C5C;
+    border-radius: 10px;
+}
+
+.empty{
+    border: 2px solid #FF0000;
+}
+
+input::placeholder{
+    color: #BFBFBF;
+}
+
+.message{
+    width: 818px;
+    height: 199px;
+}
+
+textarea{
+    box-sizing: border-box;
+    position: absolute;
+    z-index: 3;
+    padding: 23px 29px 29px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    left: 311px;
+
+    display: flex;
+    align-items: flex-end;
+    color: black;
+
+
+    background: #FFFFFF;
+    border: 1px solid #5C5C5C;
+    border-radius: 10px;
+}
+
+textarea::placeholder {
+    color: #BFBFBF;
+}
+
+.send{
+    position: absolute;
+    z-index: 3;
+    width: 398px;
+    height: 80px;
+
+    padding: 25px 167px 26px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: flex-end;
+
+    color: #FFFFFF;
+
+    background: #000000;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+}
+
+.send:hover{
+    font-size: 26px;
+    height: 90px;
+    width: 420px;
+}
+
+
+.color-yellow {
+    border: 5px solid yellow;
+}

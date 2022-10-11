@@ -1,0 +1,55 @@
+.appStore{
+    box-sizing: border-box;
+    position: absolute;
+    width: 163.53px;
+    height: 51.33px;
+}
+
+.appStore:hover{
+    width: 170px;
+    height: 60px;
+}
+
+.AP1{
+    left: 901px;
+    top: 901px;
+}
+.googlePlay{
+    position: absolute;
+    width: 184.5px;
+    height: 51.33px;
+}
+
+.googlePlay:hover{
+    width: 170px;
+    height: 60px;
+}
+
+.GP1{
+    left: 1092.5px;
+    top: 901px;
+}
+
+.AP2{
+    left: 182px;
+    top: 5359px;
+}
+
+.AP3{
+    left: 415px;
+    top: 10335.73px;
+    width: 258.93px;
+    height: 81.27px;
+}
+
+.GP3{
+    left: 733px;
+    top: 10335.73px;
+    width: 292.13px;
+    height: 81.27px;
+}
+
+.GP2{
+    left: 373.5px;
+    top: 5359px;
+}

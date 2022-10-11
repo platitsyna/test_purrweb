@@ -1,0 +1,244 @@
+.vector3{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+}
+
+.phone1{
+    position: absolute;
+    z-index: 2;
+    top:90px;
+    right: 0;
+}
+
+.ellipse94{
+    position: absolute;
+    z-index: 1;
+    width: 85px;
+    height: 85px;
+    left: -9px;
+    top: 1325px;
+
+    background: #F101BF;
+    opacity: 0.7;
+    filter: blur(50px);
+}
+
+.phone2{
+    position: absolute;
+    top: 1600px;
+}
+
+.a_platform{
+    height: 813px;
+}
+
+.our_mission{
+    height: 1420px;
+}
+
+.id_scanner{
+    height: 1789px;
+}
+
+.bi_tool{
+    height: 423px;
+}
+
+.qr_code{
+    height: 2144px;
+}
+
+.generate_your{
+    height: 733px;
+}
+
+.easier_ordering{
+    height: 826px;
+}
+
+.get_in_touch{
+    height: 1450px;
+}
+
+.cookies{
+    position: absolute;
+    width: 375px;
+    height: 93px;
+    left: 0px;
+    top: 2142px;
+    background: #212834;
+}
+.animation{
+    animation: bouns 2s;
+}
+
+@keyframes bouns {
+    0% {
+        transform: translate(0,25px);
+    }
+    25%{
+        transform: translate(0,20px);
+    }
+    50% {
+        transform: translate(0,15px);
+    }
+    75%{
+        transform: translate(0,10px);
+    }
+    100% {
+        transform: translate(0,0);
+    }
+}
+
+.cookies_text{
+    position: absolute;
+    width: 249px;
+    height: 48px;
+    left: 15px;
+    top: 21px;
+
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.cookies_button{
+    box-sizing: border-box;
+    position: absolute;
+    width: 92px;
+    height: 50px;
+    left: 268px;
+    top: 22px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    background: rgba(255, 255, 255, 0.1);
+    border: 0.5px solid #FFFFFF;
+    border-radius: 6px;
+    display: initial;
+}
+
+.cookies_button:hover{
+    width: 95px;
+    height: 55px;
+    font-size: 15px;
+}
+
+.photo1{
+    position: absolute;
+    z-index: 1;
+    width: 375px;
+    height: 263px;
+    top: 2238px;
+
+    background-image: url(../image_mobile/louis-hansel-shotsoflouis-_6ZqQc02NYc-unsplash.png);
+}
+
+.rectangle1612{
+    position: absolute;
+    z-index: 2;
+    width: 375px;
+    height: 300px;
+    top: 2238px;
+
+    background: linear-gradient(179.83deg, #000000 -1.85%, rgba(0, 0, 0, 0.67) 11.21%, rgba(0, 0, 0, 0) 54.71%, #000000 83.92%);
+}
+
+.photo2{
+    position: absolute;
+    z-index: 1;
+    width: 375px;
+    height: 311px;
+    top: 4476px;
+    background-image: url(../image_mobile/marcela-laskoski-YrtFlrLo2DQ-unsplash.png);
+}
+
+.rectangle1613{
+    position: absolute;
+    z-index: 2;
+    width: 375px;
+    height: 335px;
+    top: 4476px;
+
+    background: linear-gradient(179.83deg, #000000 -3.1%, rgba(0, 0, 0, 0) 56.76%, #000000 83.92%);
+}
+
+.nightlife{
+    position: absolute;
+    z-index: 2;
+    width: 88.46px;
+    height: 34.62px;
+    left: 33px;
+    top: 5205.67px;
+}
+
+.image21{
+    position: absolute;
+    z-index: 1;
+    height: 297px;
+    right: 0px;
+    top: 5072px;
+}
+
+.Notab_back{
+    position: absolute;
+    z-index: 2;
+    top: 6878px;
+}
+
+.rectangle1604{
+    position: absolute;
+    z-index: 1;
+    left: 35px;
+    top: 6805px;
+    width: 306.36px;
+    height: 285.24px;
+
+    background: linear-gradient(12.08deg, #F101BF 2.82%, #0066FF 97.06%);
+    opacity: 0.15;
+    filter: blur(46.6782px);
+    border-radius: 142.636px;
+    transform: rotate(-0.55deg);
+}
+
+.arrow1{
+    box-sizing: border-box;
+    position: absolute;
+    right: 23.63px;
+    top: 7062.2px;
+}
+
+.rectangle1591{
+    position: absolute;
+    z-index: 1;
+    right: 0;
+}
+
+.rectangle1649{
+    position: absolute;
+    z-index: 1;
+    top: 7850px;
+    left: 0;
+}
+
+.rectangle1650{
+    position: absolute;
+    z-index: 2;
+    bottom: 15px;
+    right: 0;
+}
+
+.rectangle1595{
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    bottom: 0;
+}
+
+

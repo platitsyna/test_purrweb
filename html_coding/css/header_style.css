@@ -1,0 +1,41 @@
+.header_logo_png{
+    position: absolute;
+    z-index: 3;
+    width: 107px;
+    height: 109px;
+    left: 85px;
+    top: 23px;
+}
+
+.header_name{
+    position: absolute;
+    width: 96px;
+    height: 24.75px;
+    left: 200px;
+    top: 69px;
+}
+
+.header_login_png{
+    position: absolute;
+    width: 26px;
+    height: 24.99px;
+    left: 404px;
+    top: 69px;
+}
+
+.header_login_text{
+    position: absolute;
+    z-index: 2;
+    width: 49px;
+    height: 25px;
+    left: 444px;
+    top: 69px;
+
+    font-size: 18px;
+    line-height: 25px;
+    border: 1px solid #000000;
+}
+
+.header_login_text:hover{
+    font-size: 30px;
+}

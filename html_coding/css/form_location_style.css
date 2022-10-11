@@ -1,0 +1,39 @@
+.send{
+    left: 521px;
+    top: 1989px;
+}
+
+.message{
+    left: 311px;
+    top: 1730px;
+}
+
+.email{
+    top: 1518px;
+}
+
+.subject{
+    top: 1624px;
+}
+
+.venue_city{
+    top: 1412px;
+    width: 397px;
+}
+
+.state_city{
+    width: 397px;
+    left: 732px;
+    top: 1412px;
+}
+
+.name{
+    left: 311px;
+    top: 1200px;
+
+}
+
+.venue_name{
+    left: 311px;
+    top: 1306px;
+}

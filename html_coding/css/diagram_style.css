@@ -1,0 +1,58 @@
+.diagramGray{
+    position: absolute;
+    width: 252.24px;
+    height: 150.05px;
+    left: 934.26px;
+    top: 3809px;
+}
+
+.diagramBulb{
+    position: absolute;
+    z-index: 1;
+    width: 182.49px;
+    height: 193.03px;
+    left: 1058.36px;
+    top: 3991.49px;
+}
+
+.diagramBlue{
+    position: absolute;
+    z-index: 2;
+    width: 193.85px;
+    height: 117.61px;
+    left: 876.68px;
+    top: 4101.8px;
+}
+
+.diagramColumns{
+    position: absolute;
+    z-index: 1;
+    width: 193.85px;
+    height: 117.61px;
+    left: 803.68px;
+    top: 4202.37px;
+}
+
+.diagramThree{
+    position: absolute;
+    width: 192.22px;
+    height: 114.36px;
+    left: 622px;
+    top: 4058.81px;
+}
+
+.diagramProcess{
+    position: absolute;
+    top: 4275px;
+    left: 1044px;
+    width: 281.13px;
+    height: 56.21px;
+}
+
+.diagramCircle{
+    position: absolute;
+    width: 233.24px;
+    height: 45.35px;
+    left: 754px;
+    top: 3993px;
+}

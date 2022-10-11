@@ -1,0 +1,312 @@
+.photo1{
+    position: absolute;
+    z-index: 1;
+    width: 1440px;
+    height: 836px;
+    left: 0px;
+    top: 2495px;
+
+    background-image: url(../images/photo/louis-hansel-shotsoflouis-_6ZqQc02NYc-unsplash.png);
+}
+
+.rectangle1612{
+    position: relative;
+    z-index: 2;
+    width: 1440px;
+    height: 1060px;
+    left: 0px;
+    top:100px;
+
+    background: linear-gradient(179.83deg, #000000 -3.1%, rgba(0, 0, 0, 0) 56.76%, #000000 83.92%);
+}
+
+.rectangle1544{
+    position: absolute;
+    width: 307.77px;
+    height: 631.35px;
+    left: 892.11px;
+    top: 159.6px;
+
+    background: #000000;
+    opacity: 0.4;
+    filter: blur(35.8417px);
+}
+
+.ellipse94{
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    left: 1116px;
+    top: 1686px;
+
+    background: #F101BF;
+    opacity: 0.7;
+    filter: blur(50px);
+}
+
+.vector3{
+    position: absolute;
+    z-index: 1;
+    right: 0px;
+}
+
+.ellipse93{
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 93px;
+    top: 470px;
+
+    background: rgba(96, 92, 234, 0.5);
+    filter: blur(50px);
+}
+
+
+.line1{
+    position: absolute;
+    width: 139.43px;
+    height: 0px;
+    left: 50px;
+    top: 573px;
+    color: #FFFFFF;
+
+    border: 4px solid #FFFFFF;
+    transform: rotate(120.61deg);
+}
+
+.rectangle1553{
+    position: absolute;
+    z-index: 1;
+    width: 441.36px;
+    height: 958.24px;
+    top: 1450px;
+
+    background: #FFFFFF;
+    opacity: 0.2;
+    filter: blur(118.009px);
+    transform: rotate(90deg);
+}
+
+.rectangle1590{
+    position: absolute;
+    left: -111px;
+    top:3706px;
+    width: 426.21px;
+    height: 438.35px;
+
+    background: linear-gradient(12.08deg, #F101BF 2.82%, #0066FF 97.06%);
+    opacity: 0.1;
+    filter: blur(125px);
+    transform: rotate(5.78deg);
+}
+
+.nightlife{
+    position: absolute;
+    z-index: 4;
+    width: 138.61px;
+    height: 54.24px;
+    left: 1199px;
+    top: 4567.81px;
+
+    transform: rotate(-12.84deg);
+}
+
+.rectangle1613{
+    position: absolute;
+    z-index: 2;
+    width: 1455px;
+    height: 682px;
+    left: -14px;
+    top: 4554px;
+
+    background: linear-gradient(179.83deg, #000000 -3.1%, rgba(0, 0, 0, 0) 56.76%, #000000 83.92%);
+}
+
+.rectangle1604{
+    position: absolute;
+    left: 213px;
+    top: 5677px;
+    width: 1022.45px;
+    height: 952.07px;
+    background: linear-gradient(12.08deg, #F101BF 2.82%, #0066FF 97.06%);
+    opacity: 0.15;
+    filter: blur(155.784px);
+    border-radius: 476.034px;
+    transform: rotate(-0.55deg);
+}
+
+.Notab{
+    position: absolute;
+    width: 1939.19px;
+    height: 495.06px;
+    left: -251.5px;
+    top: 5932.22px;
+}
+
+.arrow1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 103.06px;
+    height: 73.25px;
+    left: 939px;
+    top: 6020px;
+
+}
+
+.phone4{
+    position: absolute;
+    z-index: 2;
+    width: 332.56px;
+    height: 667.15px;
+    left: 563px;
+    top: 5824px;
+}
+
+.rectangle1591{
+    position: absolute;
+    z-index: 1;
+    right: 0px;
+    top: 6850px;
+}
+
+.phone5{
+    position: absolute;
+    z-index: 1;
+    width: 868px;
+    height: 1038.21px;
+    left: 311px;
+    top: 7059px;
+}
+
+.image1{
+    position: absolute;
+    z-index: 1;
+    width: 1440px;
+    height: 836px;
+    left: 0px;
+}
+
+.a_platform{
+    height: 977px;
+}
+
+.our_mission{
+    height: 1400px;
+}
+
+.id_scanner{
+    height: 1319px;
+}
+
+.bi_tool{
+    height: 728px;
+}
+
+.image2{
+    position: absolute;
+    z-index: 1;
+    width: 778px;
+    height: 606px;
+    left: 0px;
+    top: 4554px;
+
+    background: url(../images/photo/marcela-laskoski-YrtFlrLo2DQ-unsplash.png);
+}
+
+.image21{
+    position: absolute;
+    z-index: 3;
+    width: 651px;
+    height: 617px;
+    left: 803px;
+    top: 4549px;
+
+    background-image: url(../images/photo/ash-edmonds-fsI-_MRsic0-unsplash.png);
+}
+
+.qr_code{
+    height: 1123px;
+}
+
+.generate_your{
+    height: 1200.26px;
+}
+
+.image3{
+    position: absolute;
+    width: 1440px;
+    height: 1106px;
+    left: 0px;
+    top: 8027px;
+
+    background-image: url(../images/background/Group441.png);
+}
+
+.rectangle1649{
+    position: absolute;
+    left: 332px;
+    top: 9017px;
+    width: 247.04px;
+    height: 256.45px;
+
+    background: linear-gradient(12.08deg, #F101BF 2.82%, #0066FF 97.06%);
+    opacity: 0.3;
+    filter: blur(125px);
+    transform: rotate(5.78deg);
+}
+
+.rectangle1650{
+    position: absolute;
+    z-index: 1;
+    right: 0px;
+    top: 9400px;
+}
+
+.rectangle1595{
+    position: absolute;
+    z-index: 1;
+    bottom: 0px;
+    left: 0px;
+}
+
+.get_in_touch{
+    height: 2688.20px;
+}
+
+.easier_ordering{
+    height: 1382px;
+}
+
+.NOTAB{
+    position: absolute;
+    z-index: 2;
+    left: 99px;
+    top: 10572px;
+}
+
+.Contact_us{
+    position: absolute;
+    z-index: 2;
+    left: 99px;
+    top: 10604px;;
+}
+
+.footer_left2020{
+    position: absolute;
+    z-index: 2;
+    left: 100px;
+    top: 10673.15px;
+}
+
+.privacy_policy{
+    position: absolute;
+    left: 1225px;
+    top: 10617px;
+}
+
+.terms_to_use {
+    position: absolute;
+    left: 1225px;
+    top: 10567px;
+}

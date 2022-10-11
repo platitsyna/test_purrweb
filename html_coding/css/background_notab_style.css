@@ -1,0 +1,42 @@
+.NotabLeftTop{
+    position: absolute;
+    z-index: 1;
+    width: 647.69px;
+    height: 164.06px;
+    top: 5932.22px;
+
+    opacity: 0.5;
+}
+
+.NotabRightTop{
+    position: absolute;
+    z-index: 1;
+    width: 618.5px;
+    height: 164.06px;
+    left: 812.5px;
+    top: 5932.22px;
+
+    opacity: 0.5;
+}
+
+.NotabLeftLower{
+    position: absolute;
+    z-index: 1;
+    width: 465.69px;
+    height: 164.06px;
+    top: 6263.22px;
+
+    opacity: 0.5;
+}
+
+.NotabRightLower{
+    position: absolute;
+    z-index: 1;
+    width: 469.5px;
+    height: 164.06px;
+    left: 970.5px;
+    top: 6219.22px;
+
+    opacity: 0.5;
+}
+

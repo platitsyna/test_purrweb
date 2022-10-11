@@ -1,0 +1,204 @@
+body{
+    position: relative;
+    width: 375px;
+    height: 9595px;
+
+    background: #000000;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    color: #FFFFFF;
+}
+.appStore:hover{
+    width: 190px;
+    height: 70px;
+}
+
+.AP1{
+    position: absolute;
+    z-index: 3;
+    width: 185px;
+    height: 60px;
+    left: 95px;
+    top: 599px;
+}
+
+.AP2{
+    position: absolute;
+    width: 185px;
+    height: 60px;
+    left: 95px;
+    top: 4894px;
+}
+
+.AP3{
+    position: absolute;
+    z-index: 3;
+    width: 185px;
+    height: 60px;
+    left: 95px;
+    top: 9163px;
+}
+
+.googlePlay:hover{
+    width: 190px;
+    height: 70px;
+}
+.GP1{
+    position: absolute;
+    width: 185px;
+    height: 60px;
+    left: 95px;
+    top: 683px;
+}
+
+.GP2{
+    position: absolute;
+    width: 185px;
+    height: 60px;
+    left: 95px;
+    top: 4978px;
+}
+
+.GP3{
+    position: absolute;
+    z-index: 3;
+    width: 185px;
+    height: 60px;
+    left: 95px;
+    top: 9247px;
+}
+
+.phone3\.1{
+    position: absolute;
+    left: 44px;
+    top: 2673px;
+    width: 287.08px;
+    height: 575.93px;
+}
+
+.phone3\.2{
+    position: absolute;
+    left: 44px;
+    top: 3303.93px;
+    width: 287.08px;
+    height: 575.93px;
+}
+
+.phone4\.1{
+    position: absolute;
+    z-index: 3;
+    width: 280.98px;
+    height: 563.68px;
+    left: 47.02px;
+    top: 5278px;
+}
+
+.phone4\.2{
+    position: absolute;
+    width: 281px;
+    height: 563.73px;
+    left: 47px;
+    top: 5891.68px;
+}
+
+.phone5{
+    position: absolute;
+    z-index: 3;
+    width: 181.58px;
+    height: 364.28px;
+    left: 97.21px;
+    top: 6753px;
+}
+
+.diagramCircle{
+    position: absolute;
+    width: 109.43px;
+    height: 21.28px;
+    left: 36px;
+    top: 4248px;
+}
+
+.diagramBulb{
+    position: absolute;
+    z-index: 1;
+    width: 85.62px;
+    height: 90.56px;
+    left: 279px;
+    top: 4195px;
+}
+
+.diagramBlue{
+    position: absolute;
+    z-index: 2;
+    width: 90.95px;
+    height: 55.18px;
+    left: 193px;
+    top: 4231px;
+}
+
+.diagramColumns{
+    position: absolute;
+    z-index: 1;
+    width: 90.95px;
+    height: 55.18px;
+    left: 134px;
+    top: 4291px;
+}
+
+.diagramGray{
+    position: absolute;
+    width: 144.57px;
+    height: 86px;
+    left: -30px;
+    top: 4324px;
+}
+
+.diagramProcess{
+    position: absolute;
+    right: 0;
+    top: 4382px;
+}
+
+.phone6{
+    position: absolute;
+    z-index: 2;
+    width: 360px;
+    height: 430px;
+    left: -7px;
+    top: 7568px;
+}
+
+.NOTAB{
+    position: absolute;
+    width: 70.99px;
+    height: 14.16px;
+    left: 152px;
+    top: 9493px;
+}
+
+.Contact_us{
+    position: absolute;
+    left: 83px;
+    bottom: 52px;
+}
+
+.footer_left2020{
+    position: absolute;
+    left: 130px;
+    bottom: 24px;
+}
+
+.privacy_policy{
+    position: absolute;
+    left: 130px;
+    bottom: 160px;
+}
+
+.terms_to_use{
+    position: absolute;
+    left: 134px;
+    bottom: 199px;
+}

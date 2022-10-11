@@ -1,0 +1,289 @@
+
+h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+}
+
+h3{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    margin-block: 0;
+}
+
+p{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.A_platform_{
+    position: absolute;
+    width: 643px;
+    height: 140px;
+    left: 100px;
+    top: 275px;
+
+    font-size: 64px;
+    line-height: 70px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.NoTab_allows_{
+    position: absolute;
+    width: 380px;
+    height: 81px;
+    left: 205px;
+    top: 544px;
+
+    font-size: 20px;
+    line-height: 27px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.Download_{
+    position: absolute;
+    width: 413px;
+    height: 70px;
+    left: 100px;
+    top: 892px;
+
+    font-size: 35px;
+    line-height: 70px;
+
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.Our_mission_{
+    position: absolute;
+    width: 358px;
+    height: 124px;
+    left: 919px;
+    top: 1679px;
+
+    font-size: 51px;
+    line-height: 62px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.While_technology_{
+    position: absolute;
+    width: 315px;
+    height: 175px;
+    left: 919px;
+    top: 1826px;
+
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.ID_Scanner{
+    position: absolute;
+    z-index: 3;
+    width: 400px;
+    height: 62px;
+    left: 943px;
+    top: 3324px;
+
+    font-size: 51px;
+    line-height: 62px;
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.Scan_verify_{
+    position: absolute;
+    z-index: 3;
+    width: 316px;
+    height: 125px;
+    left: 943px;
+    top: 3409px;
+
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.BI_Tool_{
+    position: absolute;
+    width: 497px;
+    height: 62px;
+    left: 100px;
+    top: 3898px;
+
+    font-size: 51px;
+    line-height: 62px;
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.We_use_Business_{
+    position: absolute;
+    width: 395px;
+    height: 119px;
+    left: 101px;
+    top: 3983px;
+
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.QR_code{
+    position: absolute;
+    z-index: 3;
+    width: 226px;
+    height: 62px;
+    left: 181px;
+    top: 5091px;
+
+    font-size: 51px;
+    line-height: 62px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.No_more_{
+    position: absolute;
+    z-index: 3;
+    width: 315px;
+    height: 125px;
+    left: 181px;
+    top: 5176px;
+
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.Scan_QR-code1{
+    position: absolute;
+    width: 155px;
+    height: 26px;
+    left: 1025px;
+    top: 6108px;
+
+    font-size: 21px;
+    line-height: 26px;
+
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.Generate_your_{
+    position: absolute;
+    width: 381px;
+    height: 124px;
+    left: 100px;
+    top: 6571px;
+
+    font-size: 51px;
+    line-height: 62px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.The_guest_QR_{
+    position: absolute;
+    width: 292px;
+    height: 50px;
+    left: 1048px;
+    top: 6608px;
+
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.Easier_ordering_{
+    position: absolute;
+    width: 421px;
+    height: 124px;
+    left: 859px;
+    top: 6887px;
+
+    font-size: 51px;
+    line-height: 62px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.NoTab_makes_{
+    position: absolute;
+    width: 365px;
+    height: 25px;
+    left: 864px;
+    top: 7034px;
+
+    font-size: 18px;
+    line-height: 25px;
+
+    display: flex;
+    align-items: flex-end;
+}
+
+.Get_In_Touch{
+    position: absolute;
+    width: 337px;
+    height: 62px;
+    left: 551px;
+    top: 9093px;
+
+    font-size: 51px;
+    line-height: 62px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.Have_questions{
+    position: absolute;
+    width: 580px;
+    height: 50px;
+    left: 430px;
+    top: 9178px;
+
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+}
+
+.Download_1{
+    position: absolute;
+    z-index: 2;
+    width: 269.5px;
+    height: 33px;
+    left: 585px;
+    top: 10270px;
+
+    font-size: 24px;
+    line-height: 33px;
+
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}

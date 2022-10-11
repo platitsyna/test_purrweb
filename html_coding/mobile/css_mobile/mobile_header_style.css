@@ -1,0 +1,34 @@
+.header_logo_png{
+    position: absolute;
+    width: 51.73px;
+    height: 52.69px;
+    left: 15px;
+    top: 40px;
+}
+
+.header_name_link{
+    position: absolute;
+    width: 46.41px;
+    height: 11.96px;
+    left: 70.59px;
+    top: 62.24px;
+}
+
+.header_login_text{
+    position: absolute;
+    width: 38px;
+    height: 19px;
+    left: 322px;
+    top: 51px;
+
+    font-size: 14px;
+    line-height: 19px;
+
+    border: 1px solid #000000;
+}
+
+.header_login_line_png{
+    position: absolute;
+    left: 322px;
+    top: 76px;
+}
